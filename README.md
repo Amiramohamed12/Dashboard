@@ -22,3 +22,7 @@ This is a custom infotainment system built using **QtQuick** and **QML**. The sy
 
 - **Qt 6.x**: This project was built using Qt 6 and requires it for development.
 - **QtWebEngine**: For multimedia and web-based functionalities,
+
+## Results
+![image](https://github.com/user-attachments/assets/e90a3010-d8a7-4245-9fd2-b2c60108e10e)
+
