@@ -22,17 +22,21 @@ This is a custom infotainment system built using **QtQuick** and **QML**. The sy
 
 - **Qt 6.x**: This project was built using Qt 6 and requires it for development.
 - **QtWebEngine**: For multimedia and web-based functionalities,
-- **QtvirtualKeyboad**: For navigation 
+- **QtVirtualKeyboad**: For navigation 
 
 ## Results
-
+- **Tesla Infotainment**:
 ![image](https://github.com/user-attachments/assets/e90a3010-d8a7-4245-9fd2-b2c60108e10e)
+
 - **Vehicle Unlock**:
 ![image](https://github.com/user-attachments/assets/0fcfb90e-7c9e-437b-ab92-6bb437228ffb)
 
+- **Navigation**:
 ![image](https://github.com/user-attachments/assets/5087ed65-706c-40b6-b35b-e88a74ce0868)
+
 - **Multimedia**:Access Facebook
 ![image](https://github.com/user-attachments/assets/2a54b739-af03-4b6e-8f21-4994094298d9)
+
 - **Multimedia**:Access YouTube
 ![image](https://github.com/user-attachments/assets/93c6e4f3-1c2d-4e27-83b3-52472e28388c)
 
